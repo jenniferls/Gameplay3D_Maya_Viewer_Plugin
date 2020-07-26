@@ -1,0 +1,6 @@
+﻿I:\My Documents\Mina Program\Visual Studio 2017 Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ComLib.cpp
+g:\my documents\bth studies\project\project\comlibformaya\comlib.cpp(14): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  shared.cpp
+  Generating Code...
+  ComLibForMaya.vcxproj -> G:\My Documents\BTH Studies\Project\Project\MayaViewer_UD1447\$\..\..\ComLibForMaya\ComLibForMaya.lib

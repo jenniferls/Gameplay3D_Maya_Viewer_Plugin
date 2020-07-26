@@ -1,0 +1,10 @@
+﻿  Unload Maya plugin before building
+  mayaRun.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  mayaRun.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library G:\MayaPlugin\x64\Release\MayaAPI.lib and object G:\MayaPlugin\x64\Release\MayaAPI.exp
+  Generating code
+  Finished generating code
+  MayaAPI.vcxproj -> G:\MayaPlugin\x64\Release\MayaAPI.mll
+  Load Plugin after build

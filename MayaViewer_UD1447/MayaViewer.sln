@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MayaViewer", "MayaViewer.vcxproj", "{30BEE126-8B04-4F96-84A1-30CBF8B3E491}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComLibForMaya", "..\ComLibForMaya\ComLibForMaya.vcxproj", "{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MayaAPI", "..\MayaPlugin\MayaAPI.vcxproj", "{FA7E0D31-8223-4A03-9F6F-A7255EA04830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugMem|x64 = DebugMem|x64
+		DebugMem|x86 = DebugMem|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Debug|x64.ActiveCfg = Debug|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Debug|x64.Build.0 = Debug|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Debug|x86.ActiveCfg = Debug|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.DebugMem|x64.ActiveCfg = DebugMem|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.DebugMem|x64.Build.0 = DebugMem|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.DebugMem|x86.ActiveCfg = DebugMem|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Release|x64.ActiveCfg = Release|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Release|x64.Build.0 = Release|x64
+		{30BEE126-8B04-4F96-84A1-30CBF8B3E491}.Release|x86.ActiveCfg = Release|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Debug|x64.ActiveCfg = Debug|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Debug|x64.Build.0 = Debug|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Debug|x86.Build.0 = Debug|Win32
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.DebugMem|x64.ActiveCfg = Debug|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.DebugMem|x64.Build.0 = Debug|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.DebugMem|x86.ActiveCfg = Debug|Win32
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.DebugMem|x86.Build.0 = Debug|Win32
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Release|x64.ActiveCfg = Release|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Release|x64.Build.0 = Release|x64
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Release|x86.ActiveCfg = Release|Win32
+		{5EF83BCA-09A8-48E4-A45B-42F246EFE8E4}.Release|x86.Build.0 = Release|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Debug|x64.ActiveCfg = Debug|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Debug|x64.Build.0 = Debug|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Debug|x86.Build.0 = Debug|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.DebugMem|x64.ActiveCfg = Debug|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.DebugMem|x64.Build.0 = Debug|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.DebugMem|x86.ActiveCfg = Debug|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.DebugMem|x86.Build.0 = Debug|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Release|x64.ActiveCfg = Release|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Release|x64.Build.0 = Release|x64
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Release|x86.ActiveCfg = Release|Win32
+		{FA7E0D31-8223-4A03-9F6F-A7255EA04830}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60CF7556-B684-485E-9BFF-C2FAA3CDFCC4}
+	EndGlobalSection
+EndGlobal

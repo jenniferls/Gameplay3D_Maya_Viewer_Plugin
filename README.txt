@@ -1,0 +1,18 @@
+-------- Maya to gameplay3D viwer application by Jennifer Larsson-Ståhl --------
+
+Instructions:
+
+- Start the viewer application found in the "Done application"-folder.
+- Load the maya plugin in Maya 2019. the plugin can be found in the "Done application"-folder.
+You are done!
+
+--------
+
+For building the plugin yourself:
+
+- Open the visual studio project located inside the "MayaViewer_UD1447"-folder
+- Open Maya 2019 and write the following into the MEL-script editor: commandPort -n ":1234"
+- Build the ComLibForMaya-project in visual studio
+- Build the plugin in visual studio (after configuring optput directories)
+- Build the viewer application in visual studio
+You are done!
