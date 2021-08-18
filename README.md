@@ -1,5 +1,7 @@
 # Maya To Gameplay3D Viewer Application
 
+Check out the demo: [YouTube](https://www.youtube.com/watch?v=bhIRgmu04xg)
+
 Instructions:
 
 - Start the viewer application found in the "Done application"-folder.
