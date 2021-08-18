@@ -14,5 +14,5 @@ For building the plugin yourself:
 - Open Maya 2019 and write the following into the MEL-script editor: commandPort -n ":1234"
 - Build the ComLibForMaya-project in visual studio
 - Build the plugin in visual studio (after configuring output directories)
-- Build the viewer application in visual studio
+- Build the viewer application in visual studio.
 You are done!
