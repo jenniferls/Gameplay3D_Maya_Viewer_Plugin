@@ -3,7 +3,7 @@
 Instructions:
 
 - Start the viewer application found in the "Done application"-folder.
-- Load the maya plugin in Maya 2019. the plugin can be found in the "Done application"-folder.
+- Load the maya plugin in Maya 2019. The plugin can also be found in the "Done application"-folder.
 You are done!
 
 --------
