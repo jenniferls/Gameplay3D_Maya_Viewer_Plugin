@@ -1,4 +1,4 @@
--------- Maya to gameplay3D viwer application by Jennifer Larsson-Ståhl --------
+# Maya To Gameplay3D Viewer Application
 
 Instructions:
 
